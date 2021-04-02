@@ -1,5 +1,33 @@
 *******************************************GitHub**********************************************************************************
+*******************************************TELUSKO**********************************************************************************
+STEP-1 [GitHub SignUp] - 12:51
+
+NOTE - By default git is not installed in your machine, so you have to install on your windows machine.
+
 UserName - raghibtest99
 Password - India@123321
-
 Email - raghibtest99@gmail.com
+
+# Web Based Git tools:-
+GitHub
+GitLab
+BitBucket
+
+STEP-2 [GitHub Creating Repository] - 19:39
+
+*) We created sample-repo here.
+*) Create new file here.
+
+STEP-3 [Create Branch in GitHub / Pull Request / Merge] - 28:23
+
+*) Create Branch in GitHub - 29:45
+*) Pull Request / Merge - 32:53
+
+STEP-4 [GitHub Form] - 35:57
+
+*) How to search repository - 36:50
+
+STEP-5 [How to upload project on GitHub using Eclipse] - 43:42
+*) There are two ways to do that;
+1) Thru Git command prompt.
+2) Thru eclipse.
